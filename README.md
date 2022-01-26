@@ -1,2 +1,2 @@
 # Dio_Series
-Um Projeto Dio
+Um Projeto simples de cadastro de séries 
